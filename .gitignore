@@ -1,0 +1,16 @@
+# general
+*.pyc
+data/
+*.egg-info
+
+# generated figures
+*.jpg
+*.png
+*.pdf
+*.svg
+*.eps
+*.o
+*.so
+
+# exceptions
+!mpl/figures/fig-convergence.svg
